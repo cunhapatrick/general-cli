@@ -1,0 +1,12 @@
+{
+  "name": "node_scripts",
+  "version": "1.0.0",
+  "description": "node scripts to general dependency installation on unix systems",
+  "main": "index.js",
+  "author": "Patrick Cunha",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "vorpal": "^1.12.0"
+  }
+}
